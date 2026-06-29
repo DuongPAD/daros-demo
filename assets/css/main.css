@@ -2124,6 +2124,14 @@ input[type=color] {
   color: var(--at-neutral-950) !important;
 }
 
+.sec-1-home-1-bg {
+  background-color: #830000;
+}
+
+.opacity-20 {
+  opacity: 0.2 !important;
+}
+
 /*---------------------------------
     1.2 Default Spacing
 ---------------------------------*/
@@ -10547,8 +10555,8 @@ input.footer-15__form-input:focus {
   border: 1px solid var(--at-neutral-100);
 }
 .mg-portfolio-content .cs-portfolio-tag ul li a:hover {
-  border-color: var(--at-common-black);
-  background: var(--at-common-black);
+  border-color: #830000;
+  background: #830000;
   color: var(--at-common-white);
 }
 .mg-portfolio-item {
