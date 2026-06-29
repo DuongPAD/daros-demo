@@ -10623,9 +10623,9 @@ input.footer-15__form-input:focus {
   padding: 15px 0;
 }
 .card-award.style-2:hover {
-  border-color: var(--at-neutral-950);
+  border-color: #830000;
   transition: all 0.3s ease;
-  background-color: var(--at-neutral-950);
+  background-color: #830000;
   padding: 15px 20px;
 }
 .card-award.style-1 {
@@ -36238,7 +36238,7 @@ input.footer-15__form-input:focus {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background-color: #1D1D1D;
+  background-color: #830000;
   border-radius: 50px;
 }
 .at-btn:hover {
