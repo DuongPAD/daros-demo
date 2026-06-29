@@ -2124,7 +2124,7 @@ input[type=color] {
   color: var(--at-neutral-950) !important;
 }
 
-.sec-1-home-1-bg {
+.sec-1-home-1-bg, .bg-daros {
   background-color: #830000;
 }
 
